@@ -1,0 +1,6 @@
+com\example\pastereal\Pastes\Service\PasteService.class
+com\example\pastereal\Pastes\Service\PastesServiceImpl.class
+com\example\pastereal\Pastes\Entity\Pastes.class
+com\example\pastereal\Pastes\Controller\PastesController.class
+com\example\pastereal\Pastes\Repository\PastesRepository.class
+com\example\pastereal\PasteRealApplication.class
